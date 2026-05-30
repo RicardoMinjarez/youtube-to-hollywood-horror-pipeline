@@ -1,10 +1,10 @@
-YouTube-to-Hollywood Horror Pipeline Analysis
+# YouTube-to-Hollywood Horror Pipeline Analysis
 
-Project Objective
+## Project Objective
 
 This project analyzes the return on investment (ROI) of horror films based on their origin type, with a focus on comparing YouTube-origin content to traditional indie and studio-backed horror films.
 
-Dataset Overview
+### Dataset Overview
 
 - 12 horror films analyzed
 - Time range: 1999-2026
@@ -15,14 +15,14 @@ Dataset Overview
   - Studio-backed indie
   - Indie anthology
 
-Tools Used
+### Tools Used
 
 - Microsoft Excel
 - PivotTables
 - Data visualization
 - ROI calculations
 
-Methodology
+## Methodology
 
  1. Collected film budget and box office revenue data
  2. Calculated ROI for each film
@@ -30,7 +30,12 @@ Methodology
  4. Built PivotTables to compute average ROI by category
  5. Analyzed results to identify trends, outliers, and performance differences
 
-Key Findings 
+## Analysis Results
+
+The pivot table below summarizes ROI performance across film genre types 
+
+
+## Key Findings 
 
 - Traditional indie horror films produced the highest average ROI in the dataset
 - YouTube-origin films showed strong commercial performance but were heavily influenced by a small number of breakout successes
@@ -38,10 +43,10 @@ Key Findings
 - Low-budget horror films constantly generated high ROI across all categories
 - Digital-first intellectual property demonstrates potential for successful adaptations into feature films
 
-Key Insight
+## Key Insight
 
 Low-budget horror films remain one of the most coherent entertainment business models, consistently generating high returns relative to production cost
 
-Conclusion
+## Conclusion
 
 This analysis demonstrates that origin type notably impacts ROI distribution in horror films, with low-budget and digitally originated content showing strong but varying performance patterns
