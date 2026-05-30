@@ -15,6 +15,9 @@ This project analyzes the return on investment (ROI) of horror films based on th
   - Studio-backed indie
   - Indie anthology
 
+### Raw Data Preview 
+![Raw Dataset](screenshot1.png)
+
 ### Tools Used
 
 - Microsoft Excel
@@ -33,14 +36,19 @@ This project analyzes the return on investment (ROI) of horror films based on th
 ## Analysis Results
 
 The pivot table below summarizes ROI performance across film genre types 
-
+![Alt text](screenshot2.png)
 
 ## Key Findings 
 
 - Traditional indie horror films produced the highest average ROI in the dataset
 - YouTube-origin films showed strong commercial performance but were heavily influenced by a small number of breakout successes
+
+![Key Findings Part 1](screenshot4.png)
 - Median ROI for YouTube origin films was significantly lower than the mean, indicating strong outlier effects
 - Low-budget horror films constantly generated high ROI across all categories
+
+![Key Findings Part 2](screenshot5.png)
+![Finding 5](screenshot6.png) 
 - Digital-first intellectual property demonstrates potential for successful adaptations into feature films
 
 ## Key Insight
